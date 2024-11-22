@@ -1,5 +1,8 @@
 # Typi
 Typi is an automated typing application built using Python's tkinter library, allowing users to type predefined messages automatically at a set interval.
+(My in-game name is psz, which is why it's in the title of the GUI.)
+
+![Readmeimage](images/GUI.png)
 
 ## Features
 - Add, Edit, and Delete Sentences: Manage a list of sentences to be typed automatically.
